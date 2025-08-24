@@ -7,3 +7,6 @@ Now i know that this may not be a 1:1 and that i could have scoured the game's s
 As I mentioned before, my craftsmanship is likely best described as shoddy, but it fulfilled a need of mine and opened a way for me into GLSL!
 
 Im interested in what I'll cook up next.
+
+
+![Polychrome Effect](https://github.com/user-attachments/assets/cf5266e6-8a15-405d-9953-5eec0bbc3fa1)

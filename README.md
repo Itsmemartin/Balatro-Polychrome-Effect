@@ -8,5 +8,4 @@ As I mentioned before, my craftsmanship is likely best described as shoddy, but 
 
 Im interested in what I'll cook up next.
 
-
-![Polychrome Effect](https://github.com/user-attachments/assets/cf5266e6-8a15-405d-9953-5eec0bbc3fa1)
+[polychrome.webm](https://github.com/user-attachments/assets/9a04796f-1c89-411f-9213-67c672ce5ea7)
